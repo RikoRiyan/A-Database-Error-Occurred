@@ -1,0 +1,2 @@
+# A-Database-Error-Occurred
+Error Number: 1064  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Challenge in 21st Century' AND id_komponen in(SELECT id_komponen FR' at line 3  SELECT * FROM p2kb_clist_m WHERE id_list='Woman's Challenge in 21st Century' AND id_komponen in(SELECT id_komponen FROM p2kb_cform_m WHERE id_kegiatan='1' AND nama_komponen='nama_kegiatan')  Filename: models/private/Cpd_mdl.php  Line Number: 641
